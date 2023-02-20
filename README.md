@@ -86,8 +86,37 @@ También es necesario contar con las claves de una aplicación de Twitter para p
 Para poder instalar las depencias, solo es necesario ejecutar el instalar de paquetes pip
 * pip
   ```sh
-  pip install
+  pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
    ```
+   ```sh
+  pip install tensorflow
+   ```
+   
+   ```sh
+  pip install tweepy
+   ```
+   
+   ```sh
+  pip install scipy
+   ```
+   
+   ```sh
+  pip install openpyxl 
+   ```
+   
+   ```sh
+  pip install matplotlib 
+   ```
+   
+    ```sh
+  pip install sklearn 
+   ```   
+   
+   ```sh
+  pip install transformers 
+   ```
+   
+   
 
 <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
